@@ -53,4 +53,9 @@ PROVIDERS = {
         "mms": "mypixmessages.com",
         "mms_support": True,
     },
+    "Public Mobile": {
+        "sms": "msg.telus.com",
+        "mms": "msg.telus.com",
+        "mms_support": True,
+    }
 }
